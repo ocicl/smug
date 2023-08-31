@@ -1,0 +1,9 @@
+* smug
+
+Super Monadic Über Go-into : parser combinators for Common Lisp
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/drewc/smug.git |
+| commit  | 647a242                               |
+| systems | smug                                  |
+|---------+---------------------------------------|
